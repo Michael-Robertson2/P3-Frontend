@@ -1,5 +1,6 @@
 # Composite Care Healthcare App
 
+[Deprecated, maintained for archival purposes]
 ## Description
 
 [Live Site!](http://composite-care.s3-website-us-west-1.amazonaws.com/)
